@@ -1,4 +1,4 @@
-# Go Learning Journey
+# Go Learning Fun
 
 This repository contains my progress through the official Go tutorials from [go.dev/learn](https://go.dev/learn/).
 
