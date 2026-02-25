@@ -13,6 +13,7 @@ I'm working through the Go programming language tutorials to build a solid found
 - Create a database connection
 - Developing a Web Service
 - Using generic types
+- Fuzzing (testing with random data)
 
 ## Getting Started
 
