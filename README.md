@@ -8,10 +8,11 @@ I'm working through the Go programming language tutorials to build a solid found
 
 ## Tutorials Completed
 
-- [ ] Getting Started
-- [ ] Create a Module
-- [ ] Create a database connection
-- [ ] Developing a Web Service
+- Getting Started
+- Create a Module
+- Create a database connection
+- Developing a Web Service
+- Using generic types
 
 ## Getting Started
 
